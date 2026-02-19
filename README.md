@@ -5,6 +5,12 @@ Linux port of [go-organizer](https://github.com/Rhyyn/go-organizer) by [Rhyyn](h
 > **Original project (Windows):** https://github.com/Rhyyn/go-organizer
 > **This fork (Linux):** https://github.com/Dxsk/go-organizer-linux
 
+## Download
+
+Pre-built binaries are automatically compiled via GitHub Actions and published to the [Releases page](https://github.com/Dxsk/go-organizer-linux/releases).
+
+Download the latest `go-organizer` binary from there — no need to build from source.
+
 ---
 
 ## Features
